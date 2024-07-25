@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../work"
+		},
+		{
+			"path": "../theredapp"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Grocry-bud"
+		},
+		{
+			"path": "../BlockChain"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Grocry-bud",
+		"liveServer.settings.port": 5501
+	}
+}
